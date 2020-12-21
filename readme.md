@@ -1,30 +1,7 @@
-Read Me 
-Ivy Lab Individual Mouse Tracking Program
 
-# MIT License
 
-# Copyright (c) 2020 Anthony Raus and The University of California, Irvine
 
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-
-# The above copyright notice and this permission notice shall be included in all
-# copies or substantial portions of the Software.
-
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-# SOFTWARE.
-
-# VitalView is a trade mark of STARR Life Sciences Corporation.
-# Part of this program was written to process data outputed by the VitalView included software.
+# Ivy Lab Individual Mouse Tracking Program
 
 Ivy Lab Individual Mouse Tracking Program (refered to after as program) consists of 4 scripts packaged as one executable file.
 The Program was written for Windows 10 build 19041.685.
